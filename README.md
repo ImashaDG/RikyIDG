@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RikyIDG
+- 👋 Hi, I’m @ImashaGamage
 - 👀 I’m interested in web-development  and android app development
 - 🌱 I’m currently learning  Java, Javascript , python and kotlin
 - 💞️ I’m looking to collaborate on  any web related projects
