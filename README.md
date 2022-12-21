@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Java, Javascript , python and kotlin
 - 💞️ I’m looking to collaborate on  any web related projects
 - 📫 How to reach me 
-email- gamagek8@gmail.com
+email- gamagedew@gmail.com
 and an motivated self employed entrepreneaur
 <!---
 RikyIDG/RikyIDG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
